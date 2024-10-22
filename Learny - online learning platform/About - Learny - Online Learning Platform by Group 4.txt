@@ -1,0 +1,77 @@
+===============================================================
+## About LEARNY - Group 4
+===============================================================
+
+**LEARNY** is an online learning platform created by **Group 4** of the Web Development course. Designed with heart and expertise, LEARNY provides a seamless learning experience, combining powerful features with an easy-to-use interface for both students and instructors.
+
+===============================================================
+## Meet the Team
+===============================================================
+
+This platform is the result of the collective efforts of:
+- **Sunera Samuditha**
+- **Achintha Dilhara**
+- **Dilum Piumantha**
+- **Chenuli Ranasinghe**
+- **Nethmi Senarathna**
+
+Each member has contributed their unique talents, building LEARNY with passion, creativity, and technical skills.
+
+===============================================================
+## Technologies Used
+===============================================================
+
+LEARNY is developed with the following technologies:
+- **HTML**: For content structure and layout.
+- **PHP**: Backend logic and server-side operations.
+- **JavaScript**: Enhancing user interaction and functionality.
+- **SQL**: Database management for handling user and course data.
+
+### Main Framework:
+- **Bootstrap**: Ensures responsive design and smooth navigation across all devices.
+
+===============================================================
+## Key Features of LEARNY
+===============================================================
+
+1. **Single Page Home with Seamless Fluidity**
+   - A well-organized homepage for quick and easy access to all platform features.
+
+2. **User Registration & Login (Role-based)**
+   - Separate registrations for **Instructors** and **Students**, offering tailored experiences.
+
+3. **Course Creation**
+   - Instructors can upload course videos, documents, assignments, and quizzes effortlessly.
+
+4. **Course Navigation & Viewing**
+   - Students can navigate through courses, watch videos, and download course materials easily.
+
+5. **Course Progress Tracking**
+   - Users can monitor their progress to stay on top of their learning journey.
+
+===============================================================
+## Back-end Architecture
+===============================================================
+
+LEARNY’s back-end uses **plain PHP** with a **Model-View-Controller (MVC)** architecture. This ensures clean separation between the database, business logic, and user interface, enhancing efficiency and scalability.
+
+===============================================================
+## Acknowledgments
+===============================================================
+
+We would like to extend our heartfelt thanks to:
+- Our instructors and mentors for their valuable guidance throughout the project.
+- Our peers for their continuous feedback and support.
+- The open-source community for providing the tools and resources we utilized in developing LEARNY.
+
+===============================================================
++++ Copyright Information +++
+===============================================================
+
+© 2024 LEARNY. All rights reserved.
+
+LEARNY was created with dedication and love by Group 4, combining cutting-edge technologies to deliver an exceptional online learning experience. We hope it empowers users to reach new heights in their educational journey.
+
+===============================================================
+*** Thank You! ***
+===============================================================
